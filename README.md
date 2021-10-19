@@ -15,8 +15,3 @@ More of my work can be found in the respective folders of this Repo as well as m
 # Other
 
 <img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/IMG_0701.PNG?raw=true" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/anna-sersch-whitetigerwater.jpg" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/finalkooka.png?raw=true" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/help_me_lose_my_mind_by_meystr_d95o9v7.png?raw=true" height="250px">
-
-
-
-
-<img src="" height="250px"><img src="" height="250px">
