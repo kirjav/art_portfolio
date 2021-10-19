@@ -9,9 +9,9 @@ More of my work can be found in the respective folders of this Repo as well as m
 
 
 # Landscape & Color
-<img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study2.jpg?raw=true" height="250px" title="Landscape Study 1"><img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study6.jpg?raw=true" height="250px" title="Master Study on JMW Turner's Fishing Boat with Huckster's Bargaining for Fish"><img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-tm1.jpg" height="250px" title="Master Study on Thomas Moran's The Golden Hour">
-<img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study5.jpg?raw=true" height="250px" title="Master Study on JMW Turner's The Burning of the Houses of Lords and Commons">
+<img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study2.jpg" height="250px" title="Landscape Study 1"><img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study6.jpg" height="250px" title="Master Study on JMW Turner's Fishing Boat with Huckster's Bargaining for Fish"><img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-tm1.jpg" height="250px" title="Master Study on Thomas Moran's The Golden Hour">
+<img src="https://github.com/kirjav/art_portfolio/blob/main/Landscape/anna-s-study5.jpg" height="250px" title="Master Study on JMW Turner's The Burning of the Houses of Lords and Commons">
 
 # Other
 
-<img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/IMG_0701.PNG?raw=true" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/anna-sersch-whitetigerwater.jpg" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/finalkooka.png?raw=true" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/help_me_lose_my_mind_by_meystr_d95o9v7.png?raw=true" height="250px">
+<img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/IMG_0701.PNG" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/anna-sersch-whitetigerwater.jpg" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/finalkooka.png" height="250px"><img src="https://github.com/kirjav/art_portfolio/blob/main/Pet%20Portrait/help_me_lose_my_mind_by_meystr_d95o9v7.png" height="250px">
